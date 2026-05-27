@@ -1,8 +1,8 @@
 # Ex.No.10
 Content Creation (Reports, Articles, Case Studies, etc.) Using Prompt Patterns
 
-## Date:
-## Reg. No.
+## Name: Yaazhini s
+## Reg. No.212224230308
 
 ## Aim:
 To demonstrate how various prompting techniques (query decomposition, decision-making, semantic filtering, etc.) can be employed to create content such as reports, articles, case studies, or creative works like comic books, using ChatGPT or similar models. The objective is to highlight how different prompt structures affect the content's quality, coherence, and structure.
@@ -61,6 +61,256 @@ content generation scenarios:
 2.	Refined Content: A more detailed and structured output, achieved by applying more advanced prompt techniques.
 3.	Multiple Versions: Different versions of the content, showing the effect of prompt changes on the output.
 4.	Final Version: The polished version of the content after incorporating feedback and refining the prompts.
+# output
+Advanced Prompt Engineering for Content Generation Using ChatGPT
+Title
+Applying Prompt Patterns for Generating Reports, Articles, and Creative Content Using AI
+1. Objective
+
+The objective of this experiment is:
+
+To demonstrate how advanced prompting techniques improve AI-generated content
+To analyze how prompt structures affect:
+Quality
+Coherence
+Creativity
+Accuracy
+Tone and structure
+To generate refined content using ChatGPT and advanced prompt patterns
+2. AI Tool Required
+AI Tool	Purpose
+ChatGPT	Content generation and prompt experimentation
+3. Prompt Patterns Used
+Prompt Pattern	Purpose
+Query Decomposition	Break complex tasks into smaller parts
+Decision Making	Ask AI to choose between options
+Answer Engineering	Define formatting and structure
+Fact Check List	Improve factual accuracy
+Tail Generation	Extend content logically
+Menu Actions	Provide selectable actions
+Semantic Filter	Control tone, style, and complexity
+4. Selected Content Generation Scenarios
+
+The following two scenarios are selected:
+
+Business Report on Market Trends
+Creative Writing – Sci-Fi Short Story
+SCENARIO 1: Business Report on Market Trends
+Topic
+AI and Automation Trends in Manufacturing Industries
+A. First Draft Using Basic Prompt
+Basic Prompt
+
+Write a report about AI trends in manufacturing industries.
+
+Initial Output Summary
+General information about AI
+Limited statistics
+Basic structure
+Less detailed insights
+B. Applying Query Decomposition
+Refined Prompt
+
+Create a business report on AI trends in manufacturing industries.
+
+Divide the report into:
+
+Introduction
+Current Market Trends
+Benefits of AI Automation
+Challenges
+Future Opportunities
+Conclusion
+Improved Output
+
+The report became:
+
+Better organized
+Easier to understand
+More analytical
+C. Applying Decision-Making Prompt
+Prompt
+
+Choose the top three AI technologies currently transforming manufacturing industries and explain why they are important.
+
+AI Decision Output
+
+Selected:
+
+Predictive Maintenance
+Robotics Automation
+Computer Vision Systems
+D. Applying Fact Check List
+Prompt
+
+Ensure the report includes factually accurate information about AI applications in manufacturing and avoids unsupported claims.
+
+Improvements
+More reliable content
+Better professional tone
+Reduced vague statements
+E. Applying Semantic Filter
+Prompt
+
+Rewrite the report in a formal business tone suitable for industry executives.
+
+Result
+Professional language
+Executive-style formatting
+Improved readability
+F. Final Refined Business Report
+Final Version Summary
+Key Sections Included
+AI adoption trends
+Predictive maintenance benefits
+Cost reduction analysis
+Future automation opportunities
+Evaluation
+Aspect	Rating
+Coherence	5
+Accuracy	5
+Creativity	4
+Tone and Style	5
+SCENARIO 2: Creative Writing – Sci-Fi Short Story
+Topic
+AI-Controlled Future City
+A. First Draft Using Basic Prompt
+Basic Prompt
+
+Write a sci-fi story about a future city.
+
+Initial Output Summary
+Generic futuristic setting
+Limited character development
+Basic storyline
+B. Applying Query Decomposition
+Refined Prompt
+
+Create a sci-fi story with:
+
+A futuristic city
+An AI-controlled government
+A teenage hacker protagonist
+A conflict involving human freedom
+A suspenseful ending
+Improvements
+Stronger story structure
+Better character development
+Clear conflict and plot
+C. Applying Decision-Making Prompt
+Prompt
+
+Choose one of the following story directions:
+
+AI becomes humanity’s protector
+AI becomes a threat to freedom
+Humans and AI cooperate peacefully
+AI Decision Output
+
+Selected:
+
+AI becomes a threat to freedom
+
+D. Applying Tail Generation
+Prompt
+
+Extend the story by adding a final confrontation between the hacker and the AI system.
+
+Improvements
+Added suspense
+Stronger climax
+Better narrative depth
+E. Applying Semantic Filter
+Prompt
+
+Rewrite the story in a cinematic and suspenseful tone suitable for young adult readers.
+
+Result
+More engaging storytelling
+Better emotional impact
+Improved pacing
+F. Final Refined Sci-Fi Story Summary
+Story Elements
+Smart city controlled by AI
+Hacker protagonist named Arin
+AI surveillance conflict
+Underground resistance movement
+Dramatic ending
+Evaluation
+Aspect	Rating
+Coherence	5
+Creativity	5
+Originality	5
+Tone and Style	5
+5. Prompt Evolution Table
+Stage	Prompt Technique	Improvement
+Stage 1	Basic Prompt	Initial content generation
+Stage 2	Query Decomposition	Better structure
+Stage 3	Decision Making	More focused direction
+Stage 4	Fact Check / Tail Generation	Accuracy and depth
+Stage 5	Semantic Filter	Improved tone and style
+6. Comparison Between Basic and Refined Prompts
+Feature	Basic Prompt	Refined Prompt
+Structure	Simple	Well-organized
+Creativity	Moderate	High
+Accuracy	Basic	Improved
+Coherence	Moderate	Excellent
+Tone Control	Limited	Strong
+Detail Level	Low	High
+7. Key Findings
+Query Decomposition
+Improves organization
+Simplifies complex tasks
+Decision Making
+Helps AI focus on one direction
+Reduces ambiguity
+Answer Engineering
+Produces structured outputs
+Improves readability
+Fact Check List
+Enhances reliability
+Reduces misinformation
+Tail Generation
+Adds narrative depth
+Improves storytelling continuity
+Semantic Filter
+Controls tone and complexity
+Adapts content to audience needs
+8. Final Deliverables
+A. First Draft
+
+Generated using simple prompts.
+
+B. Refined Content
+
+Enhanced using advanced prompt patterns.
+
+C. Multiple Versions
+
+Different outputs showing progression in:
+
+Structure
+Tone
+Creativity
+Detail
+D. Final Version
+
+Polished content after iterative refinement.
+
+9. Conclusion
+
+This experiment demonstrates that advanced prompt engineering techniques significantly improve AI-generated content quality.
+
+Key conclusions:
+
+Structured prompts create more coherent outputs.
+Semantic filtering improves tone adaptation.
+Tail generation enhances creativity and storytelling.
+Query decomposition simplifies complex content generation tasks.
+
+Final Insight:
+
+The effectiveness of AI-generated content depends heavily on how prompts are structured and refined.
 
 ## Conclusion:
 By applying various prompting techniques, you can generate high-quality content for a wide range of use cases, from business reports and case studies to creative works like short stories and articles. This experiment demonstrates how structured prompting can guide AI models like ChatGPT to create coherent, accurate, and engaging outputs tailored to specific needs.
